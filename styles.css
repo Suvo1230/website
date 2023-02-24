@@ -1,0 +1,68 @@
+body {
+    background-color: #FF9E9E;
+    margin:0;
+    text-align: center;
+    font-family: 'EB Garamond', serif;
+
+   
+}
+
+
+h1 {
+    margin-top: 50px auto 0 auto;
+    font-size: 5.625rem;
+    font-family: 'Mynerve', serif;
+    color: rgb(9, 9, 9);
+}
+
+.enthu {
+    text-decoration: underline;
+    font-family: 'Lucida Sans';
+}
+
+h2 {
+
+    top: 200px;
+    right: 500px;
+    font-family: 'comic sans', sans-serif;
+    color: rgb(63, 22, 209);
+    font-size: 2.50rem;
+}
+
+.top-container {
+    padding-top: 100px;
+    /*means 200px down of body*/
+    position: relative;
+    /*initiation of position relative while other are wrt to this*/
+}
+
+.bottomcloud {
+    position: absolute;
+    top: 300px;
+    left: 300px;
+}
+
+.topcloud {
+    position: absolute;
+    top: 50px;
+    right: 300px;
+}
+.mypicture{
+    padding-top: 100px;
+    border-radius: 60%;
+}
+hr{
+   border-width: 7px;
+}
+h4{
+    color: rgb(9, 90, 19);
+    font-size: 2.1rem;
+}
+.hello{
+    font-size: 2.25rem;
+    color: rgb(232, 14, 156);
+}
+h3{
+    font-size: 3rem;
+    font-family:'Tilt Prism';
+}
